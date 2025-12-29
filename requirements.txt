@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+mapie
+vectorbt
+pyarrow
